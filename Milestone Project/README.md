@@ -73,10 +73,10 @@ Sentiment Analysis is high-level textual mining that can extract and identify su
 
 ## Team Organization
 
+- **Yixuan Xu**: raising project idea, data preprocessing & initial analysis, LDA topic modeling coding-up and visualization
+- **Guanqun Liu**: problem formulation, finding algorithms & tools, sentiment analysis coding-up and visualization, interactive plot design
 - **Xianjie Dai**: searching & crawling supportive datasets, webpage and interactive plot building
 - **Hanyuan Hu**: searching & crawling supportive datasets, data story writing and proof-reading
-- **Guanqun Liu**: problem formulation, finding algorithms & tools, sentiment analysis coding-up and visualization, interactive plot design
-- **Yixuan Xu**: raising project idea, data preprocessing & initial analysis, LDA topic modeling coding-up and visualization
 
 ## Files
 * `data/`: stores all datasets used for this project
